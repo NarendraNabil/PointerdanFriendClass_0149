@@ -12,7 +12,7 @@ public:
         cout << "Masukkan Panjang : ";
         cin >> panjang;
         cout << "Masukkan Lebar : ";
-        cin >> lebar
+        cin >> lebar;
     }
 
     int luasPp(int a, int b)
